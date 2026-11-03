@@ -6,4 +6,48 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Common\Constants\" />
+    <Folder Include="Modules\Audit\Entities\" />
+    <Folder Include="Modules\Audit\Enums\" />
+    <Folder Include="Modules\Audit\ValueObjects\" />
+    <Folder Include="Modules\Authorization\Entities\" />
+    <Folder Include="Modules\Authorization\Enums\" />
+    <Folder Include="Modules\Authorization\Events\" />
+    <Folder Include="Modules\Authorization\ValueObjects\" />
+    <Folder Include="Modules\Identity\Entities\" />
+    <Folder Include="Modules\Identity\Enums\" />
+    <Folder Include="Modules\Identity\Events\" />
+    <Folder Include="Modules\Identity\Exceptions\" />
+    <Folder Include="Modules\Identity\ValueObjects\" />
+    <Folder Include="Modules\Integrations\Entities\" />
+    <Folder Include="Modules\Integrations\Enums\" />
+    <Folder Include="Modules\Integrations\ValueObjects\" />
+    <Folder Include="Modules\Localization\Entities\" />
+    <Folder Include="Modules\Localization\Enums\" />
+    <Folder Include="Modules\Localization\ValueObjects\" />
+    <Folder Include="Modules\Notifications\Entities\" />
+    <Folder Include="Modules\Notifications\Enums\" />
+    <Folder Include="Modules\Notifications\ValueObjects\" />
+    <Folder Include="Modules\Organizations\Entities\" />
+    <Folder Include="Modules\Organizations\Enums\" />
+    <Folder Include="Modules\Organizations\Events\" />
+    <Folder Include="Modules\Organizations\ValueObjects\" />
+    <Folder Include="Modules\PlatformAdministration\Entities\" />
+    <Folder Include="Modules\PlatformAdministration\Enums\" />
+    <Folder Include="Modules\PlatformAdministration\ValueObjects\" />
+    <Folder Include="Modules\ServiceCatalog\Entities\" />
+    <Folder Include="Modules\ServiceCatalog\Enums\" />
+    <Folder Include="Modules\ServiceCatalog\Events\" />
+    <Folder Include="Modules\ServiceCatalog\ValueObjects\" />
+    <Folder Include="Modules\Subscriptions\Entities\" />
+    <Folder Include="Modules\Subscriptions\Enums\" />
+    <Folder Include="Modules\Subscriptions\Events\" />
+    <Folder Include="Modules\Subscriptions\ValueObjects\" />
+    <Folder Include="Modules\TenantManagement\Entities\" />
+    <Folder Include="Modules\TenantManagement\Enums\" />
+    <Folder Include="Modules\TenantManagement\Events\" />
+    <Folder Include="Modules\TenantManagement\ValueObjects\" />
+  </ItemGroup>
+
 </Project>
